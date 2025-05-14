@@ -63,9 +63,10 @@ const Hero: React.FC = () => {
               <div className="absolute top-0 right-0 w-24 h-24 bg-primary-500 rounded-full opacity-20 -translate-y-1/2 translate-x-1/2 z-0"></div>
               <div className="rounded-4xl overflow-hidden relative z-10">
                 <img 
-                  src="/src/assets/drsherif.png" 
+
+                  src="./drsherif.png" 
                   alt="Woman with healthy food" 
-                  className="w-full h-auto object-cover"
+
                 />
               </div>
               <div className="absolute bottom-0 left-0 w-32 h-32 bg-secondary-500 rounded-full opacity-20 translate-y-1/2 -translate-x-1/2 z-0"></div>
