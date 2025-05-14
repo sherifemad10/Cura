@@ -63,7 +63,7 @@ const Hero: React.FC = () => {
               <div className="absolute top-0 right-0 w-24 h-24 bg-primary-500 rounded-full opacity-20 -translate-y-1/2 translate-x-1/2 z-0"></div>
               <div className="rounded-4xl overflow-hidden relative z-10">
                 <img 
-                  src="src/assets/drsherif.png" 
+                  src="../../assets/drsherif.png" 
                   alt="sherif emad" 
                   className="w-full h-auto object-cover"
                 />
