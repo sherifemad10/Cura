@@ -87,7 +87,7 @@ const Hero: React.FC = () => {
             </button>
             <div className="aspect-w-16 aspect-h-9">
             <video autoPlay loop>
-                <source src="src/assets/Nutrition-Clinic.mp4" type="video/mp4" />
+                <source src="./Nutrition-Clinic.mp4" type="video/mp4" />
               </video>
             </div>
           </div>

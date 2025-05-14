@@ -56,7 +56,7 @@ const Header: React.FC = () => {
       <div className="container-custom">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center">
-            <img src="/src/assets/cura-logo.svg" alt="CURA Logo" className="h-10 w-10" />
+            <img src="./cura-logo.svg" alt="CURA Logo" className="h-10 w-10" />
             <span className={`text-2xl font-bold ${isScrolled || isDarkMode ? 'text-primary-500' : 'text-dark'} ms-2`}>CURA</span>
           </Link>
 

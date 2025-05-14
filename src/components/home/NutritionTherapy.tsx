@@ -81,7 +81,7 @@ const NutritionTherapy: React.FC = () => {
           </h2>
           <div className="bg-neutral-100 dark:bg-neutral-800 rounded-2xl overflow-hidden">
             <img
-              src="./drsherif.png"
+              src="./cura.jpg"
               alt="Nutritional Therapy"
               className="w-full h-80 object-cover"
             />
